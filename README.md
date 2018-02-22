@@ -6,7 +6,7 @@
 2. cd into project folder
 
 
-3. open file in sublime
+3. open file in sublime or preffered text editor
 
 
 4. type rails g controller "name of controller"
